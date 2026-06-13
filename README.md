@@ -13,6 +13,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
+
+</details>
+
+
 ### String
 <details>
 <summary>Click to expand String problems</summary>
