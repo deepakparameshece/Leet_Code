@@ -1,35 +1,17 @@
-class Solution {
-    public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        for(char ch: s.toCharArray())
-        {
-            switch (ch)
-            {
-                case '(':
-                case '{':
-                case '[':
-                    stack.push(ch);
-                    break;
-                case ')':
-                    if(stack.isEmpty() || stack.pop() != '(')
-                    {
-                        return false;
-                    }
-                    break;
-                case '}':
-                    if(stack.isEmpty() || stack.pop() != '{')
-                    {
-                        return false;
-                    }
-                    break;
-                case ']':
-                    if(stack.isEmpty() || stack.pop() != '[')
-                    {
-                        return false;
-                    }
-                    break;
-            }
+import java.util.*;
+public class Solution{
+    public boolean isValid(String str){
+        while(str.length() !=0){
+            if(str.contains("()"))
+                str=str.replace("()","");
+            else if(str.contains("[]"))
+                str=str.replace("[]","");
+            else if(str.contains("{}"))
+                str=str.replace("{}","");
+            else
+                return false;
+            
         }
-        return stack.isEmpty();
+        return true;
     }
 }
