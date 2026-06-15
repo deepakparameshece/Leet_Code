@@ -40,6 +40,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Math
+<details>
+<summary>Click to expand Math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+
+</details>
+
+
 ### String
 <details>
 <summary>Click to expand String problems</summary>
