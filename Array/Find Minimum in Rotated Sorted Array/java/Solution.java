@@ -4,7 +4,7 @@ class Solution {
       int right =arr.length-1;
       while(left<right){
         int m=left+(right-left)/2;
-        if(arr[m]<arr[right]) left=m+1;
+        if(arr[m]>arr[right]) left=m+1;
         else right=m;
       }
       return left;
