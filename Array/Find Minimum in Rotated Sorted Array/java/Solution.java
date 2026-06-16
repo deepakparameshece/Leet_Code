@@ -7,7 +7,7 @@ class Solution {
         if(arr[m]>arr[right]) left=m+1;
         else right=m;
       }
-      return left;
+      return right;
 
     }
 }
