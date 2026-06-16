@@ -5,7 +5,7 @@ class Solution {
       while(left<=right){
         int m=left+(right-left)/2;
         if(arr[m]<arr[m+1]) left=m+1;
-        else right=mid;
+        else right=m;
       }
       return left;
     }
