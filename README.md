@@ -19,6 +19,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
