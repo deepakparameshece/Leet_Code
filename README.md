@@ -22,6 +22,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
