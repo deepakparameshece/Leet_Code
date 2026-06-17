@@ -1,0 +1,17 @@
+            }  
+            }
+            if(start == nums[i]) a.add(""+start);
+            else a.add(start+"->"+nums[i]);
+            i++;
+            return a;   
+     }
+
+}
+                i++;
+            while(i+1<nums.length && nums[i]+1 == nums[i+1]) {
+            int start=nums[i];
+         while(i<nums.length){
+         int i=0;
+        ArrayList <String> a = new ArrayList<>();
+    public List<String> summaryRanges(int[] nums) {
+class Solution {

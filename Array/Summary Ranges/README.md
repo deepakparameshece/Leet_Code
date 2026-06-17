@@ -5,53 +5,73 @@
 
 ## Problem Statement
 
-<p>You are given a <strong>sorted unique</strong> integer array <code>nums</code>.</p>
+You are given a sorted unique integer array nums.
 
-<p>A <strong>range</strong> <code>[a,b]</code> is the set of all integers from <code>a</code> to <code>b</code> (inclusive).</p>
+A range [a,b] is the set of all integers from a to b (inclusive).
 
-<p>Return <em>the <strong>smallest sorted</strong> list of ranges that <strong>cover all the numbers in the array exactly</strong></em>. That is, each element of <code>nums</code> is covered by exactly one of the ranges, and there is no integer <code>x</code> such that <code>x</code> is in one of the ranges but not in <code>nums</code>.</p>
+Return the smallest sorted list of ranges that cover all the numbers in the array exactly. That is, each element of nums is covered by exactly one of the ranges, and there is no integer x such that x is in one of the ranges but not in nums.
 
-<p>Each range <code>[a,b]</code> in the list should be output as:</p>
+Each range [a,b] in the list should be output as:
 
-<ul>
-	<li><code>&quot;a-&gt;b&quot;</code> if <code>a != b</code></li>
-	<li><code>&quot;a&quot;</code> if <code>a == b</code></li>
-</ul>
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+	"a->b" if a != b
+	"a" if a == b
 
-<pre>
-<strong>Input:</strong> nums = [0,1,2,4,5,7]
-<strong>Output:</strong> [&quot;0-&gt;2&quot;,&quot;4-&gt;5&quot;,&quot;7&quot;]
-<strong>Explanation:</strong> The ranges are:
-[0,2] --&gt; &quot;0-&gt;2&quot;
-[4,5] --&gt; &quot;4-&gt;5&quot;
-[7,7] --&gt; &quot;7&quot;
-</pre>
 
-<p><strong class="example">Example 2:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> nums = [0,2,3,4,6,8,9]
-<strong>Output:</strong> [&quot;0&quot;,&quot;2-&gt;4&quot;,&quot;6&quot;,&quot;8-&gt;9&quot;]
-<strong>Explanation:</strong> The ranges are:
-[0,0] --&gt; &quot;0&quot;
-[2,4] --&gt; &quot;2-&gt;4&quot;
-[6,6] --&gt; &quot;6&quot;
-[8,9] --&gt; &quot;8-&gt;9&quot;
-</pre>
+Input: nums = [0,1,2,4,5,7]
+Output: ["0->2","4->5","7"]
+Explanation: The ranges are:
+[0,2] --> "0->2"
+[4,5] --> "4->5"
+[7,7] --> "7"
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>0 &lt;= nums.length &lt;= 20</code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
-	<li>All the values of <code>nums</code> are <strong>unique</strong>.</li>
-	<li><code>nums</code> is sorted in ascending order.</li>
-</ul>
+Example 2:
 
+Input: nums = [0,2,3,4,6,8,9]
+Output: ["0","2->4","6","8->9"]
+Explanation: The ranges are:
+[0,0] --> "0"
+[2,4] --> "2->4"
+[6,6] --> "6"
+[8,9] --> "8->9"
+
+
+ 
+Constraints:
+
+
+	0 <= nums.length <= 20
+	-231 <= nums[i] <= 231 - 1
+	All the values of nums are unique.
+	nums is sorted in ascending order.
+
+## Examples
+
+```
+Input: nums = [0,1,2,4,5,7]
+Output: ["0->2","4->5","7"]
+Explanation: The ranges are:
+[0,2] --> "0->2"
+[4,5] --> "4->5"
+[7,7] --> "7"
+
+Input: nums = [0,2,3,4,6,8,9]
+Output: ["0","2->4","6","8->9"]
+Explanation: The ranges are:
+[0,0] --> "0"
+[2,4] --> "2->4"
+[6,6] --> "6"
+[8,9] --> "8->9"
+```
+
+## Constraints
+
+- "a->b" if a != b
+- "a" if a == b
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
