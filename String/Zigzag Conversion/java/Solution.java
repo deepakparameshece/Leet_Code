@@ -17,7 +17,6 @@ class Solution {
     for (String row : rows){
         result += row;
     }
-    result row;
+    return result;
     }
     }
-}
