@@ -8,6 +8,7 @@ class Solution {
                 if(m.get(a)!=b) return false;
             }
             else{
+                if(m.containsValue(b)) return false;
              m.put(a,b);
             }
         }
