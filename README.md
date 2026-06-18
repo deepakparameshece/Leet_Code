@@ -78,7 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Easy |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 
 </details>

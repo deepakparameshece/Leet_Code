@@ -1,0 +1,16 @@
+        if(currentRow ==0 || currentRow == numRows-1){
+            goingDown = !goingDown;
+        }
+        currentRow +=goingDown ? 1:-1;}
+    String result ="";
+        rows[currentRow] += ch;
+    int currentRow = 0;
+    boolean goingDown=false;
+    for(char ch:s.toCharArray()){
+        rows[i]= "";
+    }
+    for(int i=0; i<numRows;i++){
+    if(numRows == 1 || s.length()<= numRows) return s;
+    String[] rows = new String [numRows];
+    public String convert(String s, int numRows) {
+class Solution {
