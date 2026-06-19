@@ -7,11 +7,10 @@ class Solution {
             char ch=pattern.charAt(i);
             String word =words[i];
             if(map.containsKey(ch)){
-                if(!map.get(ch).equals(word)) 
-                {return false;}
-              }  else{
-                    if(map.containsValue(word)) 
-                    {return false;}
+                if(!map.get(ch).equals(word)) return false;
+              } 
+             else{
+                    if(map.containsValue(word)) return false;
                      map.put(ch,word);
                 }
                
