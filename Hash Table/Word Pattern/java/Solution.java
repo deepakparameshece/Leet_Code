@@ -9,13 +9,13 @@ class Solution {
             if(map.containsKey(ch)){
                 if(!map.get(ch).equals(word)) 
                 {return false;}
-                else{
+              }  else{
                     if(map.containsValue(word)) 
                     {return false;}
                      map.put(ch,word);
                 }
                
-            }
+            
         }
         return true;
     }
