@@ -1,6 +1,3 @@
-# Leet_Code
-
-
 <!-- ALGOVAULT:STATS:START -->
 # 🚀 Data Structures & Algorithms Master Repository
 
@@ -23,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
