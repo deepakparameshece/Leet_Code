@@ -93,6 +93,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 
 </details>
 
