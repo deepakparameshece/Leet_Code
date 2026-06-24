@@ -70,6 +70,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 
 </details>
 
