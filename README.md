@@ -21,7 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
-| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
+| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Easy |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
