@@ -35,6 +35,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
+| 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
