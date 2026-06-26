@@ -31,7 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
-| 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
+| 260 | [Single Number III](./Array/Single%20Number%20III/) | Easy |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |

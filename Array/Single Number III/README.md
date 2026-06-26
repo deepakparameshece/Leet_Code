@@ -1,46 +1,61 @@
 # 260. Single Number III
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/single-number-iii/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>Given an integer array <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once. You can return the answer in <strong>any order</strong>.</p>
+Given an integer array nums, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once. You can return the answer in any order.
 
-<p>You must write an&nbsp;algorithm that runs in linear runtime complexity and uses&nbsp;only constant extra space.</p>
+You must write an algorithm that runs in linear runtime complexity and uses only constant extra space.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> nums = [1,2,1,3,2,5]
-<strong>Output:</strong> [3,5]
-<strong>Explanation: </strong> [5, 3] is also a valid answer.
-</pre>
+Input: nums = [1,2,1,3,2,5]
+Output: [3,5]
+Explanation:  [5, 3] is also a valid answer.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> nums = [-1,0]
-<strong>Output:</strong> [-1,0]
-</pre>
+Example 2:
 
-<p><strong class="example">Example 3:</strong></p>
+Input: nums = [-1,0]
+Output: [-1,0]
 
-<pre>
-<strong>Input:</strong> nums = [0,1]
-<strong>Output:</strong> [1,0]
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Example 3:
 
-<ul>
-	<li><code>2 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
-	<li>Each integer in <code>nums</code> will appear twice, only two integers will appear once.</li>
-</ul>
+Input: nums = [0,1]
+Output: [1,0]
 
+
+ 
+Constraints:
+
+
+	2 <= nums.length <= 3 * 104
+	-231 <= nums[i] <= 231 - 1
+	Each integer in nums will appear twice, only two integers will appear once.
+
+## Examples
+
+```
+Input: nums = [1,2,1,3,2,5]
+Output: [3,5]
+Explanation:  [5, 3] is also a valid answer.
+
+Input: nums = [-1,0]
+Output: [-1,0]
+
+Input: nums = [0,1]
+Output: [1,0]
+```
+
+## Constraints
+
+- 2 <= nums.length <= 3 * 104
+- -231 <= nums[i] <= 231 - 1
+- Each integer in nums will appear twice, only two integers will appear once.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
