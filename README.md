@@ -47,6 +47,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Divide and Conquer
+<details>
+<summary>Click to expand Divide and Conquer problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
+
+</details>
+
+
 ### General
 <details>
 <summary>Click to expand General problems</summary>
