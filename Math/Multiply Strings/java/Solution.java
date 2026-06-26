@@ -1,8 +1,19 @@
 class Solution {
     public String multiply(String num1, String num2) {
-     int nums1= Integer.parseInt(num1);
-     int nums2= Integer.parseInt(num2);
-     long ans=nums1*nums2;
-     return Long.toString(ans);
-         }
+        int[] res=new int[num1.length()+num2.length()];
+        for(int i=num1.length()-1;i>=0;i--){
+            for(int j=num2.length()-1;j>=0;j--){
+                int mul=(num1.charAt(i)-'0')*(num2.charAt(j)-'0');
+                res[i+j+1]+=mul;
+                res[i+j]+=res[i+j+1]/10;
+                res[i+j+1]%=10;
+            }
+        }
+        StringBuilder sb=new StringBuilder();
+        for(int n:res){
+            if(!(sb.length()==0&&n==0))
+                sb.append(n);
+        }
+        return sb.length()==0?"0":sb.toString();
+    }
 }
