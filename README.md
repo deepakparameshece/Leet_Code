@@ -79,6 +79,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 
