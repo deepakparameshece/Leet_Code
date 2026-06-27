@@ -47,6 +47,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Bit Manipulation
+<details>
+<summary>Click to expand Bit Manipulation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 201 | [Bitwise AND of Numbers Range](./Bit%20Manipulation/Bitwise%20AND%20of%20Numbers%20Range/) | Medium |
+
+</details>
+
+
 ### Divide and Conquer
 <details>
 <summary>Click to expand Divide and Conquer problems</summary>
