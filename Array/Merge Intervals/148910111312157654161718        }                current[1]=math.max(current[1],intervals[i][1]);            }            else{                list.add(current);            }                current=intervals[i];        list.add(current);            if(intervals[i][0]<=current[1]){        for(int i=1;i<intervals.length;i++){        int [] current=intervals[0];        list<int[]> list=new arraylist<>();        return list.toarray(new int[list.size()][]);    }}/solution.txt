@@ -1,0 +1,15 @@
+        }
+                current[1]=Math.max(current[1],intervals[i][1]);
+            }
+            else{
+                list.add(current);
+            }
+                current=intervals[i];
+        list.add(current);
+            if(intervals[i][0]<=current[1]){
+        for(int i=1;i<intervals.length;i++){
+        int [] current=intervals[0];
+        List<int[]> list=new ArrayList<>();
+        return list.toArray(new int[list.size()][]);
+    }
+}
