@@ -1,9 +1,11 @@
 class Solution {
     public int rangeBitwiseAnd(int left, int right) {
-        int ans = left;
-        for(int i=left;i<=right;i++){
-            ans&=i;
+        int count = 0;
+        while (left != right) {
+            left >>= 1;
+            right >>= 1;
+            count++;
         }
-        return ans;
+        return (left << count);
     }
 }
