@@ -1,13 +1,11 @@
-public class Solution {
-    
-    public int reverseBits(int num) {
-        String s=Integer.toBinaryString(num);
-        while(s.length()<32){
-            s="0"+s;
-        }        
-        String rev=new StringBuilder(s).reverse().toString();
-        long ans=Long.parseLong(rev,2);
-        return (int) ans;
-        
+class Solution {
+    public int reverseBits(int n) {
+        int ans = 0;
+        for (int i = 0; i < 32; i++) {
+            ans <<= 1;
+            ans |= (n & 1);
+            n >>>= 1;
+        }
+        return ans;
     }
 }
