@@ -120,6 +120,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Easy |
+| 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 
