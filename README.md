@@ -35,6 +35,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Easy |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
