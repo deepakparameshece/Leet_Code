@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458122139" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458129485" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,6 +20,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
@@ -41,8 +42,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
+| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
+| 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
+| 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
+| 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1833 | [Maximum Ice Cream Bars](./Array/Maximum%20Ice%20Cream%20Bars/) | Medium |
+| 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
 
 </details>
 
@@ -72,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1378 | [Replace Employee ID With The Unique Identifier](./Database/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 
 </details>
 
@@ -108,7 +115,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
+| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 
