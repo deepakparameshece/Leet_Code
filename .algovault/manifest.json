@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:35:14.882Z",
+  "lastUpdated": "2026-07-31T00:35:22.138Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -784,6 +784,149 @@
               "runtime": "0 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "13 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "12 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "4sum-ii": {
+          "questionId": "454",
+          "title": "4Sum II",
+          "titleSlug": "4sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "111 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/4Sum II/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "3 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array-ii": {
+          "questionId": "154",
+          "title": "Find Minimum in Rotated Sorted Array II",
+          "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "peak-index-in-a-mountain-array": {
+          "questionId": "852",
+          "title": "Peak Index in a Mountain Array",
+          "titleSlug": "peak-index-in-a-mountain-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458122138,
+              "runtime": "0 ms",
+              "memory": "80.1 MB",
+              "githubPath": "LeetCode/Array/Peak Index in a Mountain Array/"
             }
           }
         }
