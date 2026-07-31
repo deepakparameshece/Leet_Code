@@ -1,149 +1,23 @@
 <!-- ALGOVAULT:STATS:START -->
-# 🚀 Data Structures & Algorithms Master Repository
+# 🏆 Ultimate Competitive Programming & DSA Vault
 
-A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
+Welcome to my **Master Repository** for Data Structures, Algorithms, and Competitive Programming! 🚀
+
+This repository contains my personal library of highly optimized, strictly tested, and structured solutions to problems across multiple platforms. It is designed to track my progress, document optimal coding patterns, and demonstrate technical excellence in problem-solving.
+
+## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DeepakPN?theme=dark&font=Poppins&ext=heatmap" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458087882" width="100%" />
 </p>
 
-# 📚 Structured Problem Solving Topics
+## 📂 Repository Structure
 
+- **[LeetCode](./LeetCode)**: Topic-wise FAANG interview preparation and algorithmic challenges.
 
-### Array
-<details>
-<summary>Click to expand Array problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
-| 15 | [3Sum](./Array/3Sum/) | Easy |
-| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
-| 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
-| 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Easy |
-| 66 | [Plus One](./Array/Plus%20One/) | Easy |
-| 78 | [Subsets](./Array/Subsets/) | Medium |
-| 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
-| 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Easy |
-| 136 | [Single Number](./Array/Single%20Number/) | Easy |
-| 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
-| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Easy |
-| 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
-| 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
-| 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
-| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
-| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
-| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
-| 260 | [Single Number III](./Array/Single%20Number%20III/) | Easy |
-| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
-| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
-| 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
-| 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
-| 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
-| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
-| 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
-| 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
-| 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
-| 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
-| 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
-
-</details>
-
-
-### Bit Manipulation
-<details>
-<summary>Click to expand Bit Manipulation problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 201 | [Bitwise AND of Numbers Range](./Bit%20Manipulation/Bitwise%20AND%20of%20Numbers%20Range/) | Medium |
-
-</details>
-
-
-### Divide and Conquer
-<details>
-<summary>Click to expand Divide and Conquer problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
-
-</details>
-
-
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| — | [Peak Index in a Mountain Array](./General/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
-
-</details>
-
-
-### Hash Table
-<details>
-<summary>Click to expand Hash Table problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Easy |
-| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
-| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
-| 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
-| 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
-| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
-| 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
-
-</details>
-
-
-### Math
-<details>
-<summary>Click to expand Math problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
-| 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
-| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
-| 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
-
-</details>
-
-
-### String
-<details>
-<summary>Click to expand String problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Easy |
-| 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
-| 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
-| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
-
-</details>
-
-
-### Two Pointers
-<details>
-<summary>Click to expand Two Pointers problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
-| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
-| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
-| 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
-
-</details>
-
-
+---
 <p align="center">
-Building Technical Excellence Through Consistent Problem Solving.
+  <i>Auto-generated & continuously synced by <b>AlgoVault</b>. Building technical excellence through consistent problem solving.</i>
 </p>
 
 <!-- ALGOVAULT:STATS:END -->
