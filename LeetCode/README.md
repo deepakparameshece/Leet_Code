@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458218419" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458225169" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -39,8 +39,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
 | 407 | [Trapping Rain Water II](./Array/Trapping%20Rain%20Water%20II/) | Hard |
 | 417 | [Pacific Atlantic Water Flow](./Array/Pacific%20Atlantic%20Water%20Flow/) | Medium |
@@ -103,6 +105,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3542 | [Minimum Operations to Convert All Elements to Zero](./Array/Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero/) | Medium |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 | 3712 | [Sum of Elements With Frequency Divisible by K](./Array/Sum%20of%20Elements%20With%20Frequency%20Divisible%20by%20K/) | Easy |
+
+</details>
+
+
+### Binary Search
+<details>
+<summary>Click to expand Binary Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
 
 </details>
 
@@ -179,6 +192,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
 | 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](./Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/) | Easy |
 
@@ -197,6 +211,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
@@ -259,6 +274,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 | 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
 | 501 | [Find Mode in Binary Search Tree](./Tree/Find%20Mode%20in%20Binary%20Search%20Tree/) | Easy |
 | 559 | [Maximum Depth of N-ary Tree](./Tree/Maximum%20Depth%20of%20N-ary%20Tree/) | Easy |
@@ -276,6 +292,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
+| 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
