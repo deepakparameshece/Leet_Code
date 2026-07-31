@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:38:01.901Z",
+  "lastUpdated": "2026-07-31T01:33:37.949Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1271,9 +1271,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785458138459,
-              "runtime": "129 ms",
-              "memory": "47.3 MB",
+              "syncedAt": 1785461617948,
+              "runtime": "131 ms",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
             }
           }
