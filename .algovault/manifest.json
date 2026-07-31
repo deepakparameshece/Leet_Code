@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:36:50.062Z",
+  "lastUpdated": "2026-07-31T00:36:58.418Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2931,6 +2931,188 @@
               "runtime": "140 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Find the Minimum Amount of Time to Brew Potions/"
+            }
+          }
+        },
+        "successful-pairs-of-spells-and-potions": {
+          "questionId": "2300",
+          "title": "Successful Pairs of Spells and Potions",
+          "titleSlug": "successful-pairs-of-spells-and-potions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "45 ms",
+              "memory": "65 MB",
+              "githubPath": "LeetCode/Array/Successful Pairs of Spells and Potions/"
+            }
+          }
+        },
+        "avoid-flood-in-the-city": {
+          "questionId": "1488",
+          "title": "Avoid Flood in The City",
+          "titleSlug": "avoid-flood-in-the-city",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Binary Search",
+            "Greedy",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "33 ms",
+              "memory": "63.7 MB",
+              "githubPath": "LeetCode/Array/Avoid Flood in The City/"
+            }
+          }
+        },
+        "swim-in-rising-water": {
+          "questionId": "778",
+          "title": "Swim in Rising Water",
+          "titleSlug": "swim-in-rising-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "3 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Swim in Rising Water/"
+            }
+          }
+        },
+        "pacific-atlantic-water-flow": {
+          "questionId": "417",
+          "title": "Pacific Atlantic Water Flow",
+          "titleSlug": "pacific-atlantic-water-flow",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "4 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Pacific Atlantic Water Flow/"
+            }
+          }
+        },
+        "sum-of-left-leaves": {
+          "questionId": "404",
+          "title": "Sum of Left Leaves",
+          "titleSlug": "sum-of-left-leaves",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Tree/Sum of Left Leaves/"
+            }
+          }
+        },
+        "find-the-difference": {
+          "questionId": "389",
+          "title": "Find the Difference",
+          "titleSlug": "find-the-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            }
+          }
+        },
+        "is-subsequence": {
+          "questionId": "392",
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "2 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
+            }
+          }
+        },
+        "ransom-note": {
+          "questionId": "383",
+          "title": "Ransom Note",
+          "titleSlug": "ransom-note",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "1 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Hash Table/Ransom Note/"
+            }
+          }
+        },
+        "trapping-rain-water-ii": {
+          "questionId": "407",
+          "title": "Trapping Rain Water II",
+          "titleSlug": "trapping-rain-water-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Breadth-First Search",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458218418,
+              "runtime": "7 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water II/"
             }
           }
         }
