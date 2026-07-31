@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:36:15.767Z",
+  "lastUpdated": "2026-07-31T00:36:28.852Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2147,6 +2147,344 @@
               "runtime": "6 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/String/Robot Return to Origin/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-ii": {
+          "questionId": "3321",
+          "title": "Find X-Sum of All K-Long Subarrays II",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188851,
+              "runtime": "375 ms",
+              "memory": "189.4 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays II/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-i": {
+          "questionId": "3318",
+          "title": "Find X-Sum of All K-Long Subarrays I",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188851,
+              "runtime": "10 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
+            }
+          }
+        },
+        "maximum-repeating-substring": {
+          "questionId": "1668",
+          "title": "Maximum Repeating Substring",
+          "titleSlug": "maximum-repeating-substring",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188851,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Maximum Repeating Substring/"
+            }
+          }
+        },
+        "check-if-binary-string-has-at-most-one-segment-of-ones": {
+          "questionId": "1784",
+          "title": "Check if Binary String Has at Most One Segment of Ones",
+          "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188851,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/String/Check if Binary String Has at Most One Segment of Ones/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188851,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "minimum-time-to-make-rope-colorful": {
+          "questionId": "1578",
+          "title": "Minimum Time to Make Rope Colorful",
+          "titleSlug": "minimum-time-to-make-rope-colorful",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188851,
+              "runtime": "12 ms",
+              "memory": "90.6 MB",
+              "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
+            }
+          }
+        },
+        "merge-strings-alternately": {
+          "questionId": "1768",
+          "title": "Merge Strings Alternately",
+          "titleSlug": "merge-strings-alternately",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Merge Strings Alternately/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "75 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            }
+          }
+        },
+        "number-of-segments-in-a-string": {
+          "questionId": "434",
+          "title": "Number of Segments in a String",
+          "titleSlug": "number-of-segments-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/String/Number of Segments in a String/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "12 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "check-if-two-string-arrays-are-equivalent": {
+          "questionId": "1662",
+          "title": "Check If Two String Arrays are Equivalent",
+          "titleSlug": "check-if-two-string-arrays-are-equivalent",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Check If Two String Arrays are Equivalent/"
+            }
+          }
+        },
+        "count-unguarded-cells-in-the-grid": {
+          "questionId": "2257",
+          "title": "Count Unguarded Cells in the Grid",
+          "titleSlug": "count-unguarded-cells-in-the-grid",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "352 ms",
+              "memory": "221.5 MB",
+              "githubPath": "LeetCode/Array/Count Unguarded Cells in the Grid/"
+            }
+          }
+        },
+        "delete-nodes-from-linked-list-present-in-array": {
+          "questionId": "3217",
+          "title": "Delete Nodes From Linked List Present in Array",
+          "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "21 ms",
+              "memory": "178.4 MB",
+              "githubPath": "LeetCode/Array/Delete Nodes From Linked List Present in Array/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "1 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "minimum-number-of-increments-on-subarrays-to-form-a-target-array": {
+          "questionId": "1526",
+          "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+          "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "3 ms",
+              "memory": "57.5 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Increments on Subarrays to Form a Target Array/"
+            }
+          }
+        },
+        "assign-cookies": {
+          "questionId": "455",
+          "title": "Assign Cookies",
+          "titleSlug": "assign-cookies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "5 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Array/Assign Cookies/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "20 ms",
+              "memory": "61 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "smallest-number-with-all-set-bits": {
+          "questionId": "3370",
+          "title": "Smallest Number With All Set Bits",
+          "titleSlug": "smallest-number-with-all-set-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458188852,
+              "runtime": "0 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
             }
           }
         }
