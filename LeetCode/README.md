@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458225169" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458230706" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -31,6 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
@@ -38,6 +39,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
@@ -115,6 +117,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
 | 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
 
 </details>
@@ -158,6 +161,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
+
+</details>
+
+
+### Dynamic Programming
+<details>
+<summary>Click to expand Dynamic Programming problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
 
 </details>
 
@@ -210,6 +224,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
@@ -236,6 +251,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
 | 589 | [N-ary Tree Preorder Traversal](./Stack/N-ary%20Tree%20Preorder%20Traversal/) | Easy |
 
 </details>
@@ -251,6 +267,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 257 | [Binary Tree Paths](./String/Binary%20Tree%20Paths/) | Easy |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |

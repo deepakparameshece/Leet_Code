@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:37:05.168Z",
+  "lastUpdated": "2026-07-31T00:37:10.704Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3245,6 +3245,144 @@
               "runtime": "3 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458230703,
+              "runtime": "0 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "counting-bits": {
+          "questionId": "338",
+          "title": "Counting Bits",
+          "titleSlug": "counting-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458230703,
+              "runtime": "2 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
+            }
+          }
+        },
+        "first-bad-version": {
+          "questionId": "278",
+          "title": "First Bad Version",
+          "titleSlug": "first-bad-version",
+          "difficulty": "Easy",
+          "tags": [
+            "Binary Search",
+            "Interactive"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458230703,
+              "runtime": "24 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Binary Search/First Bad Version/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458230703,
+              "runtime": "0 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "binary-tree-paths": {
+          "questionId": "257",
+          "title": "Binary Tree Paths",
+          "titleSlug": "binary-tree-paths",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Backtracking",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458230703,
+              "runtime": "8 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Binary Tree Paths/"
+            }
+          }
+        },
+        "implement-queue-using-stacks": {
+          "questionId": "232",
+          "title": "Implement Queue using Stacks",
+          "titleSlug": "implement-queue-using-stacks",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458230704,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Stack/Implement Queue using Stacks/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458230704,
+              "runtime": "1 ms",
+              "memory": "53.2 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
         }
