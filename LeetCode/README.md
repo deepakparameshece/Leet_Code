@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458247741" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458257986" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,6 +24,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 120 | [Triangle](./Array/Triangle/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
@@ -214,6 +217,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |
 | 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
@@ -231,6 +235,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
@@ -263,6 +270,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 | 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 | 232 | [Implement Queue using Stacks](./Stack/Implement%20Queue%20using%20Stacks/) | Easy |
@@ -305,7 +313,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
+| 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 110 | [Balanced Binary Tree](./Tree/Balanced%20Binary%20Tree/) | Easy |
 | 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 112 | [Path Sum](./Tree/Path%20Sum/) | Easy |
 | 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 | 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
 | 501 | [Find Mode in Binary Search Tree](./Tree/Find%20Mode%20in%20Binary%20Search%20Tree/) | Easy |
