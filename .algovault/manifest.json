@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:34:47.414Z",
+  "lastUpdated": "2026-07-31T00:35:01.251Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -280,6 +280,226 @@
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
+            }
+          }
+        },
+        "merge-intervals": {
+          "questionId": "56",
+          "title": "Merge Intervals",
+          "titleSlug": "merge-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "7 ms",
+              "memory": "49.1 MB",
+              "githubPath": "LeetCode/Array/Merge Intervals/"
+            }
+          }
+        },
+        "bitwise-and-of-numbers-range": {
+          "questionId": "201",
+          "title": "Bitwise AND of Numbers Range",
+          "titleSlug": "bitwise-and-of-numbers-range",
+          "difficulty": "Medium",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "3 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Bitwise AND of Numbers Range/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "3 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "4 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "2 ms",
+              "memory": "72.2 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "multiply-strings": {
+          "questionId": "43",
+          "title": "Multiply Strings",
+          "titleSlug": "multiply-strings",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "2 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "subarray-sum-equals-k": {
+          "questionId": "560",
+          "title": "Subarray Sum Equals K",
+          "titleSlug": "subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "1537 ms",
+              "memory": "48.7 MB",
+              "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
+            }
+          }
+        },
+        "single-number-iii": {
+          "questionId": "260",
+          "title": "Single Number III",
+          "titleSlug": "single-number-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "7 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Single Number III/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "5 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-ii": {
+          "questionId": "122",
+          "title": "Best Time to Buy and Sell Stock II",
+          "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "0 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock": {
+          "questionId": "121",
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "2 ms",
+              "memory": "94.6 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458101251,
+              "runtime": "2 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
             }
           }
         }
