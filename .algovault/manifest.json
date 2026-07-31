@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:35:58.150Z",
+  "lastUpdated": "2026-07-31T00:36:06.695Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1787,6 +1787,152 @@
               "runtime": "7 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Tree/Find Mode in Binary Search Tree/"
+            }
+          }
+        },
+        "n-ary-tree-preorder-traversal": {
+          "questionId": "589",
+          "title": "N-ary Tree Preorder Traversal",
+          "titleSlug": "n-ary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "3 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Stack/N-ary Tree Preorder Traversal/"
+            }
+          }
+        },
+        "number-complement": {
+          "questionId": "476",
+          "title": "Number Complement",
+          "titleSlug": "number-complement",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
+            }
+          }
+        },
+        "check-if-all-1s-are-at-least-length-k-places-away": {
+          "questionId": "1437",
+          "title": "Check If All 1's Are at Least Length K Places Away",
+          "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "1 ms",
+              "memory": "65 MB",
+              "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
+            }
+          }
+        },
+        "number-of-substrings-with-only-1s": {
+          "questionId": "1513",
+          "title": "Number of Substrings With Only 1s",
+          "titleSlug": "number-of-substrings-with-only-1s",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "5 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Math/Number of Substrings With Only 1s/"
+            }
+          }
+        },
+        "count-the-number-of-substrings-with-dominant-ones": {
+          "questionId": "3234",
+          "title": "Count the Number of Substrings With Dominant Ones",
+          "titleSlug": "count-the-number-of-substrings-with-dominant-ones",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "114 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Count the Number of Substrings With Dominant Ones/"
+            }
+          }
+        },
+        "increment-submatrices-by-one": {
+          "questionId": "2536",
+          "title": "Increment Submatrices by One",
+          "titleSlug": "increment-submatrices-by-one",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "7 ms",
+              "memory": "77.1 MB",
+              "githubPath": "LeetCode/Array/Increment Submatrices by One/"
+            }
+          }
+        },
+        "maximum-number-of-operations-to-move-ones-to-the-end": {
+          "questionId": "3228",
+          "title": "Maximum Number of Operations to Move Ones to the End",
+          "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "7 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Operations to Move Ones to the End/"
+            }
+          }
+        },
+        "minimum-number-of-operations-to-make-all-array-elements-equal-to-1": {
+          "questionId": "2654",
+          "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+          "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458166695,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
             }
           }
         }

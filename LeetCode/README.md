@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458158153" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458166696" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -54,6 +54,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](./Array/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
 | 1512 | [Number of Good Pairs](./Array/Number%20of%20Good%20Pairs/) | Easy |
@@ -64,6 +65,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2141 | [Maximum Running Time of N Computers](./Array/Maximum%20Running%20Time%20of%20N%20Computers/) | Hard |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
+| 2536 | [Increment Submatrices by One](./Array/Increment%20Submatrices%20by%20One/) | Medium |
+| 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Array/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/) | Medium |
 | 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
 
 </details>
@@ -77,6 +80,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 201 | [Bitwise AND of Numbers Range](./Bit%20Manipulation/Bitwise%20AND%20of%20Numbers%20Range/) | Medium |
 | 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
+| 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 
 </details>
 
@@ -157,8 +161,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
+| 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
 | 2469 | [Convert the Temperature](./Math/Convert%20the%20Temperature/) | Easy |
+
+</details>
+
+
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 589 | [N-ary Tree Preorder Traversal](./Stack/N-ary%20Tree%20Preorder%20Traversal/) | Easy |
 
 </details>
 
@@ -175,6 +191,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
 | 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
+| 3228 | [Maximum Number of Operations to Move Ones to the End](./String/Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/) | Medium |
+| 3234 | [Count the Number of Substrings With Dominant Ones](./String/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones/) | Medium |
 
 </details>
 
