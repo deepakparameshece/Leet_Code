@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458199332" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458210062" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -76,10 +76,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2141 | [Maximum Running Time of N Computers](./Array/Maximum%20Running%20Time%20of%20N%20Computers/) | Hard |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2257 | [Count Unguarded Cells in the Grid](./Array/Count%20Unguarded%20Cells%20in%20the%20Grid/) | Medium |
+| 2273 | [Find Resultant Array After Removing Anagrams](./Array/Find%20Resultant%20Array%20After%20Removing%20Anagrams/) | Easy |
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
 | 2536 | [Increment Submatrices by One](./Array/Increment%20Submatrices%20by%20One/) | Medium |
 | 2598 | [Smallest Missing Non-negative Integer After Operations](./Array/Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/) | Medium |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Array/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/) | Medium |
+| 3147 | [Taking Maximum Energy From the Mystic Dungeon](./Array/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/) | Medium |
 | 3217 | [Delete Nodes From Linked List Present in Array](./Array/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/) | Medium |
 | 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
@@ -87,10 +89,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I/) | Medium |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/) | Hard |
+| 3349 | [Adjacent Increasing Subarrays Detection I](./Array/Adjacent%20Increasing%20Subarrays%20Detection%20I/) | Easy |
+| 3350 | [Adjacent Increasing Subarrays Detection II](./Array/Adjacent%20Increasing%20Subarrays%20Detection%20II/) | Medium |
 | 3354 | [Make Array Elements Equal to Zero](./Array/Make%20Array%20Elements%20Equal%20to%20Zero/) | Easy |
 | 3397 | [Maximum Number of Distinct Elements After Operations](./Array/Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations/) | Medium |
+| 3494 | [Find the Minimum Amount of Time to Brew Potions](./Array/Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions/) | Medium |
+| 3539 | [Find Sum of Array Product of Magical Sequences](./Array/Find%20Sum%20of%20Array%20Product%20of%20Magical%20Sequences/) | Hard |
 | 3542 | [Minimum Operations to Convert All Elements to Zero](./Array/Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero/) | Medium |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
+| 3712 | [Sum of Elements With Frequency Divisible by K](./Array/Sum%20of%20Elements%20With%20Frequency%20Divisible%20by%20K/) | Easy |
 
 </details>
 
@@ -151,6 +158,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
+| 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
+| 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 | 2048 | [Next Greater Numerically Balanced Number](./Hash%20Table/Next%20Greater%20Numerically%20Balanced%20Number/) | Medium |
 

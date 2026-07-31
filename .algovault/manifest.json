@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:36:39.325Z",
+  "lastUpdated": "2026-07-31T00:36:50.062Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2760,6 +2760,177 @@
               "runtime": "0 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
+            }
+          }
+        },
+        "adjacent-increasing-subarrays-detection-ii": {
+          "questionId": "3350",
+          "title": "Adjacent Increasing Subarrays Detection II",
+          "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210061,
+              "runtime": "13 ms",
+              "memory": "88.7 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "adjacent-increasing-subarrays-detection-i": {
+          "questionId": "3349",
+          "title": "Adjacent Increasing Subarrays Detection I",
+          "titleSlug": "adjacent-increasing-subarrays-detection-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "3 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "find-resultant-array-after-removing-anagrams": {
+          "questionId": "2273",
+          "title": "Find Resultant Array After Removing Anagrams",
+          "titleSlug": "find-resultant-array-after-removing-anagrams",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
+            }
+          }
+        },
+        "sum-of-elements-with-frequency-divisible-by-k": {
+          "questionId": "3712",
+          "title": "Sum of Elements With Frequency Divisible by K",
+          "titleSlug": "sum-of-elements-with-frequency-divisible-by-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "3 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Sum of Elements With Frequency Divisible by K/"
+            }
+          }
+        },
+        "find-sum-of-array-product-of-magical-sequences": {
+          "questionId": "3539",
+          "title": "Find Sum of Array Product of Magical Sequences",
+          "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Combinatorics",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "20 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Find Sum of Array Product of Magical Sequences/"
+            }
+          }
+        },
+        "taking-maximum-energy-from-the-mystic-dungeon": {
+          "questionId": "3147",
+          "title": "Taking Maximum Energy From the Mystic Dungeon",
+          "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "3 ms",
+              "memory": "62.8 MB",
+              "githubPath": "LeetCode/Array/Taking Maximum Energy From the Mystic Dungeon/"
+            }
+          }
+        },
+        "find-the-minimum-amount-of-time-to-brew-potions": {
+          "questionId": "3494",
+          "title": "Find the Minimum Amount of Time to Brew Potions",
+          "titleSlug": "find-the-minimum-amount-of-time-to-brew-potions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458210062,
+              "runtime": "140 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Find the Minimum Amount of Time to Brew Potions/"
             }
           }
         }
