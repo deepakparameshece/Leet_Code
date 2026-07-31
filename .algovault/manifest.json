@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:35:44.455Z",
+  "lastUpdated": "2026-07-31T00:35:51.498Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1481,6 +1481,158 @@
               "runtime": "47 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Top K Frequent Elements/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-sorted-matrix": {
+          "questionId": "378",
+          "title": "Kth Smallest Element in a Sorted Matrix",
+          "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "18 ms",
+              "memory": "51.9 MB",
+              "githubPath": "LeetCode/Array/Kth Smallest Element in a Sorted Matrix/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
+            }
+          }
+        },
+        "prime-number-of-set-bits-in-binary-representation": {
+          "questionId": "762",
+          "title": "Prime Number of Set Bits in Binary Representation",
+          "titleSlug": "prime-number-of-set-bits-in-binary-representation",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "4 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
+            }
+          }
+        },
+        "flood-fill": {
+          "questionId": "733",
+          "title": "Flood Fill",
+          "titleSlug": "flood-fill",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Flood Fill/"
+            }
+          }
+        },
+        "min-cost-climbing-stairs": {
+          "questionId": "746",
+          "title": "Min Cost Climbing Stairs",
+          "titleSlug": "min-cost-climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
+            }
+          }
+        },
+        "find-smallest-letter-greater-than-target": {
+          "questionId": "744",
+          "title": "Find Smallest Letter Greater Than Target",
+          "titleSlug": "find-smallest-letter-greater-than-target",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
+            }
+          }
+        },
+        "valid-palindrome-ii": {
+          "questionId": "680",
+          "title": "Valid Palindrome II",
+          "titleSlug": "valid-palindrome-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "4 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
+            }
+          }
+        },
+        "maximum-depth-of-n-ary-tree": {
+          "questionId": "559",
+          "title": "Maximum Depth of N-ary Tree",
+          "titleSlug": "maximum-depth-of-n-ary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458151498,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of N-ary Tree/"
             }
           }
         }
