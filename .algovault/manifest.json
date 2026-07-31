@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:37:47.341Z",
+  "lastUpdated": "2026-07-31T00:37:56.033Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4128,6 +4128,224 @@
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "perfect-number": {
+          "questionId": "507",
+          "title": "Perfect Number",
+          "titleSlug": "perfect-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "2081 ms",
+              "memory": "40 MB",
+              "githubPath": "LeetCode/Math/Perfect Number/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "3 ms",
+              "memory": "59.5 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "1 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "merge-sorted-array": {
+          "questionId": "88",
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Array/Merge Sorted Array/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "8 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "ugly-number": {
+          "questionId": "263",
+          "title": "Ugly Number",
+          "titleSlug": "ugly-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "1 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "5 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "implement-stack-using-queues": {
+          "questionId": "225",
+          "title": "Implement Stack using Queues",
+          "titleSlug": "implement-stack-using-queues",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Design",
+            "Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "0 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Stack/Implement Stack using Queues/"
+            }
+          }
+        },
+        "palindrome-linked-list": {
+          "questionId": "234",
+          "title": "Palindrome Linked List",
+          "titleSlug": "palindrome-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "4 ms",
+              "memory": "68.9 MB",
+              "githubPath": "LeetCode/Linked List/Palindrome Linked List/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "1 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458276033,
+              "runtime": "0 ms",
+              "memory": "40.3 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
             }
           }
         }
