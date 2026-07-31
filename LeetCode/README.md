@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458166696" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458175769" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -42,6 +42,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
 | 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
+| 474 | [Ones and Zeroes](./Array/Ones%20and%20Zeroes/) | Medium |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
 | 560 | [Subarray Sum Equals K](./Array/Subarray%20Sum%20Equals%20K/) | Medium |
@@ -62,12 +63,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1833 | [Maximum Ice Cream Bars](./Array/Maximum%20Ice%20Cream%20Bars/) | Medium |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2141 | [Maximum Running Time of N Computers](./Array/Maximum%20Running%20Time%20of%20N%20Computers/) | Hard |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
+| 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
 | 2536 | [Increment Submatrices by One](./Array/Increment%20Submatrices%20by%20One/) | Medium |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Array/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/) | Medium |
 | 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
+| 3542 | [Minimum Operations to Convert All Elements to Zero](./Array/Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero/) | Medium |
+| 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 
 </details>
 
@@ -162,6 +167,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
+| 1611 | [Minimum One Bit Operations to Make Integers Zero](./Math/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/) | Hard |
+| 2169 | [Count Operations to Obtain Zero](./Math/Count%20Operations%20to%20Obtain%20Zero/) | Easy |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
 | 2469 | [Convert the Temperature](./Math/Convert%20the%20Temperature/) | Easy |
 
@@ -190,6 +197,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
+| 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](./String/Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/) | Easy |
+| 1704 | [Determine if String Halves Are Alike](./String/Determine%20if%20String%20Halves%20Are%20Alike/) | Easy |
+| 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
 | 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
 | 3228 | [Maximum Number of Operations to Move Ones to the End](./String/Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/) | Medium |
 | 3234 | [Count the Number of Substrings With Dominant Ones](./String/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones/) | Medium |

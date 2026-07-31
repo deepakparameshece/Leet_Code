@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:36:06.695Z",
+  "lastUpdated": "2026-07-31T00:36:15.767Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1933,6 +1933,220 @@
               "runtime": "1 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
+            }
+          }
+        },
+        "ones-and-zeroes": {
+          "questionId": "474",
+          "title": "Ones and Zeroes",
+          "titleSlug": "ones-and-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "19 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Ones and Zeroes/"
+            }
+          }
+        },
+        "minimum-operations-to-convert-all-elements-to-zero": {
+          "questionId": "3542",
+          "title": "Minimum Operations to Convert All Elements to Zero",
+          "titleSlug": "minimum-operations-to-convert-all-elements-to-zero",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "12 ms",
+              "memory": "137.5 MB",
+              "githubPath": "LeetCode/Array/Minimum Operations to Convert All Elements to Zero/"
+            }
+          }
+        },
+        "count-operations-to-obtain-zero": {
+          "questionId": "2169",
+          "title": "Count Operations to Obtain Zero",
+          "titleSlug": "count-operations-to-obtain-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
+            }
+          }
+        },
+        "minimum-one-bit-operations-to-make-integers-zero": {
+          "questionId": "1611",
+          "title": "Minimum One Bit Operations to Make Integers Zero",
+          "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Minimum One Bit Operations to Make Integers Zero/"
+            }
+          }
+        },
+        "sorting-the-sentence": {
+          "questionId": "1859",
+          "title": "Sorting the Sentence",
+          "titleSlug": "sorting-the-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/String/Sorting the Sentence/"
+            }
+          }
+        },
+        "determine-if-string-halves-are-alike": {
+          "questionId": "1704",
+          "title": "Determine if String Halves Are Alike",
+          "titleSlug": "determine-if-string-halves-are-alike",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Determine if String Halves Are Alike/"
+            }
+          }
+        },
+        "maximize-the-minimum-powered-city": {
+          "questionId": "2528",
+          "title": "Maximize the Minimum Powered City",
+          "titleSlug": "maximize-the-minimum-powered-city",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Queue",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "31 ms",
+              "memory": "84.5 MB",
+              "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
+            }
+          }
+        },
+        "decrypt-string-from-alphabet-to-integer-mapping": {
+          "questionId": "1309",
+          "title": "Decrypt String from Alphabet to Integer Mapping",
+          "titleSlug": "decrypt-string-from-alphabet-to-integer-mapping",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/String/Decrypt String from Alphabet to Integer Mapping/"
+            }
+          }
+        },
+        "number-of-strings-that-appear-as-substrings-in-word": {
+          "questionId": "1967",
+          "title": "Number of Strings That Appear as Substrings in Word",
+          "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
+            }
+          }
+        },
+        "power-grid-maintenance": {
+          "questionId": "3607",
+          "title": "Power Grid Maintenance",
+          "titleSlug": "power-grid-maintenance",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "18 ms",
+              "memory": "259.2 MB",
+              "githubPath": "LeetCode/Array/Power Grid Maintenance/"
+            }
+          }
+        },
+        "robot-return-to-origin": {
+          "questionId": "657",
+          "title": "Robot Return to Origin",
+          "titleSlug": "robot-return-to-origin",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458175767,
+              "runtime": "6 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/String/Robot Return to Origin/"
             }
           }
         }
