@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458138460" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458144455" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -38,6 +38,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 454 | [4Sum II](./Array/4Sum%20II/) | Medium |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
@@ -53,7 +54,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1833 | [Maximum Ice Cream Bars](./Array/Maximum%20Ice%20Cream%20Bars/) | Medium |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
+| 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 3264 | [Final Array State After K Multiplication Operations I](./Array/Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I/) | Easy |
 
 </details>
@@ -108,11 +111,24 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
+| 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
+
+</details>
+
+
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 876 | [Middle of the Linked List](./Linked%20List/Middle%20of%20the%20Linked%20List/) | Easy |
+| 1290 | [Convert Binary Number in a Linked List to Integer](./Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/) | Easy |
 
 </details>
 
@@ -131,6 +147,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
+| 2469 | [Convert the Temperature](./Math/Convert%20the%20Temperature/) | Easy |
 
 </details>
 
@@ -145,6 +162,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
 
 </details>
 

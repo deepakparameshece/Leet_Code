@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:35:38.459Z",
+  "lastUpdated": "2026-07-31T00:35:44.455Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1331,6 +1331,156 @@
               "runtime": "125 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "convert-the-temperature": {
+          "questionId": "2469",
+          "title": "Convert the Temperature",
+          "titleSlug": "convert-the-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144454,
+              "runtime": "0 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Math/Convert the Temperature/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144454,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144454,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "convert-binary-number-in-a-linked-list-to-integer": {
+          "questionId": "1290",
+          "title": "Convert Binary Number in a Linked List to Integer",
+          "titleSlug": "convert-binary-number-in-a-linked-list-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144454,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Linked List/Convert Binary Number in a Linked List to Integer/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144454,
+              "runtime": "1 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "score-of-a-string": {
+          "questionId": "3110",
+          "title": "Score of a String",
+          "titleSlug": "score-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144455,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Score of a String/"
+            }
+          }
+        },
+        "find-all-lonely-numbers-in-the-array": {
+          "questionId": "2150",
+          "title": "Find All Lonely Numbers in the Array",
+          "titleSlug": "find-all-lonely-numbers-in-the-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144455,
+              "runtime": "82 ms",
+              "memory": "158.2 MB",
+              "githubPath": "LeetCode/Array/Find All Lonely Numbers in the Array/"
+            }
+          }
+        },
+        "top-k-frequent-elements": {
+          "questionId": "347",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458144455,
+              "runtime": "47 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Top K Frequent Elements/"
             }
           }
         }
