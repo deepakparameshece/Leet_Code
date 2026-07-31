@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:36:28.852Z",
+  "lastUpdated": "2026-07-31T00:36:39.325Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2485,6 +2485,281 @@
               "runtime": "0 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
+            }
+          }
+        },
+        "make-array-elements-equal-to-zero": {
+          "questionId": "3354",
+          "title": "Make Array Elements Equal to Zero",
+          "titleSlug": "make-array-elements-equal-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199324,
+              "runtime": "4 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
+            }
+          }
+        },
+        "number-of-laser-beams-in-a-bank": {
+          "questionId": "2125",
+          "title": "Number of Laser Beams in a Bank",
+          "titleSlug": "number-of-laser-beams-in-a-bank",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "String",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "13 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
+            }
+          }
+        },
+        "simple-bank-system": {
+          "questionId": "2043",
+          "title": "Simple Bank System",
+          "titleSlug": "simple-bank-system",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Design",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "94 ms",
+              "memory": "101.8 MB",
+              "githubPath": "LeetCode/Array/Simple Bank System/"
+            }
+          }
+        },
+        "calculate-money-in-leetcode-bank": {
+          "questionId": "1716",
+          "title": "Calculate Money in Leetcode Bank",
+          "titleSlug": "calculate-money-in-leetcode-bank",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "0 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Calculate Money in Leetcode Bank/"
+            }
+          }
+        },
+        "next-greater-numerically-balanced-number": {
+          "questionId": "2048",
+          "title": "Next Greater Numerically Balanced Number",
+          "titleSlug": "next-greater-numerically-balanced-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Backtracking",
+            "Counting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "1 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Hash Table/Next Greater Numerically Balanced Number/"
+            }
+          }
+        },
+        "check-if-digits-are-equal-in-string-after-operations-i": {
+          "questionId": "3461",
+          "title": "Check If Digits Are Equal in String After Operations I",
+          "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation",
+            "Combinatorics",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Check If Digits Are Equal in String After Operations I/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "0 ms",
+              "memory": "40.6 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-ii": {
+          "questionId": "3347",
+          "title": "Maximum Frequency of an Element After Performing Operations II",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "505 ms",
+              "memory": "56.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations II/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-i": {
+          "questionId": "3346",
+          "title": "Maximum Frequency of an Element After Performing Operations I",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "14 ms",
+              "memory": "57.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations I/"
+            }
+          }
+        },
+        "maximum-number-of-distinct-elements-after-operations": {
+          "questionId": "3397",
+          "title": "Maximum Number of Distinct Elements After Operations",
+          "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "19 ms",
+              "memory": "58 MB",
+              "githubPath": "LeetCode/Array/Maximum Number of Distinct Elements After Operations/"
+            }
+          }
+        },
+        "maximize-the-number-of-partitions-after-operations": {
+          "questionId": "3003",
+          "title": "Maximize the Number of Partitions After Operations",
+          "titleSlug": "maximize-the-number-of-partitions-after-operations",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "2 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/String/Maximize the Number of Partitions After Operations/"
+            }
+          }
+        },
+        "smallest-missing-non-negative-integer-after-operations": {
+          "questionId": "2598",
+          "title": "Smallest Missing Non-negative Integer After Operations",
+          "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "6 ms",
+              "memory": "57.8 MB",
+              "githubPath": "LeetCode/Array/Smallest Missing Non-negative Integer After Operations/"
+            }
+          }
+        },
+        "add-strings": {
+          "questionId": "415",
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "2 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Add Strings/"
+            }
+          }
+        },
+        "convert-a-number-to-hexadecimal": {
+          "questionId": "405",
+          "title": "Convert a Number to Hexadecimal",
+          "titleSlug": "convert-a-number-to-hexadecimal",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458199325,
+              "runtime": "0 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
             }
           }
         }
