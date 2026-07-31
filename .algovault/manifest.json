@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:37:19.081Z",
+  "lastUpdated": "2026-07-31T00:37:27.739Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3496,6 +3496,181 @@
               "runtime": "0 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Binary Search/Count Complete Tree Nodes/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247738,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "excel-sheet-column-title": {
+          "questionId": "168",
+          "title": "Excel Sheet Column Title",
+          "titleSlug": "excel-sheet-column-title",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247738,
+              "runtime": "0 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
+            }
+          }
+        },
+        "intersection-of-two-linked-lists": {
+          "questionId": "160",
+          "title": "Intersection of Two Linked Lists",
+          "titleSlug": "intersection-of-two-linked-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247738,
+              "runtime": "1 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
+            }
+          }
+        },
+        "binary-tree-postorder-traversal": {
+          "questionId": "145",
+          "title": "Binary Tree Postorder Traversal",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247739,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-preorder-traversal": {
+          "questionId": "144",
+          "title": "Binary Tree Preorder Traversal",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247739,
+              "runtime": "0 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
+            }
+          }
+        },
+        "largest-perimeter-triangle": {
+          "questionId": "976",
+          "title": "Largest Perimeter Triangle",
+          "titleSlug": "largest-perimeter-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247739,
+              "runtime": "7 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
+            }
+          }
+        },
+        "largest-triangle-area": {
+          "questionId": "812",
+          "title": "Largest Triangle Area",
+          "titleSlug": "largest-triangle-area",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247739,
+              "runtime": "9 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Largest Triangle Area/"
+            }
+          }
+        },
+        "minimum-depth-of-binary-tree": {
+          "questionId": "111",
+          "title": "Minimum Depth of Binary Tree",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247739,
+              "runtime": "2 ms",
+              "memory": "63.2 MB",
+              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
+            }
+          }
+        },
+        "valid-triangle-number": {
+          "questionId": "611",
+          "title": "Valid Triangle Number",
+          "titleSlug": "valid-triangle-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458247739,
+              "runtime": "22 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Valid Triangle Number/"
             }
           }
         }
