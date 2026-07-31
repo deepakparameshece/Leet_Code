@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:37:56.033Z",
+  "lastUpdated": "2026-07-31T00:38:01.901Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4346,6 +4346,79 @@
               "runtime": "0 ms",
               "memory": "40.3 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "nim-game": {
+          "questionId": "292",
+          "title": "Nim Game",
+          "titleSlug": "nim-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Brainteaser",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458281901,
+              "runtime": "0 ms",
+              "memory": "40.2 MB",
+              "githubPath": "LeetCode/Math/Nim Game/"
+            }
+          }
+        },
+        "build-array-from-permutation": {
+          "questionId": "1920",
+          "title": "Build Array from Permutation",
+          "titleSlug": "build-array-from-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458281901,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
+            }
+          }
+        },
+        "group-the-people-given-the-group-size-they-belong-to": {
+          "questionId": "1282",
+          "title": "Group the People Given the Group Size They Belong To",
+          "titleSlug": "group-the-people-given-the-group-size-they-belong-to",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458281901,
+              "runtime": "7 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Group the People Given the Group Size They Belong To/"
+            }
+          }
+        },
+        "subtract-the-product-and-sum-of-digits-of-an-integer": {
+          "questionId": "1281",
+          "title": "Subtract the Product and Sum of Digits of an Integer",
+          "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458281901,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
             }
           }
         }

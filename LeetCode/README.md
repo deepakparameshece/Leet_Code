@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458276035" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458281904" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -76,6 +76,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 1039 | [Minimum Score Triangulation of Polygon](./Array/Minimum%20Score%20Triangulation%20of%20Polygon/) | Medium |
+| 1282 | [Group the People Given the Group Size They Belong To](./Array/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To/) | Medium |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](./Array/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
@@ -89,6 +90,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1792 | [Maximum Average Pass Ratio](./Array/Maximum%20Average%20Pass%20Ratio/) | Medium |
 | 1833 | [Maximum Ice Cream Bars](./Array/Maximum%20Ice%20Cream%20Bars/) | Medium |
+| 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
@@ -258,6 +260,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
+| 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
@@ -269,6 +272,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
 | 1518 | [Water Bottles](./Math/Water%20Bottles/) | Easy |
