@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458230706" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785458239084" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -64,6 +64,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
+| 1039 | [Minimum Score Triangulation of Polygon](./Array/Minimum%20Score%20Triangulation%20of%20Polygon/) | Medium |
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](./Array/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
@@ -83,6 +84,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2125 | [Number of Laser Beams in a Bank](./Array/Number%20of%20Laser%20Beams%20in%20a%20Bank/) | Medium |
 | 2141 | [Maximum Running Time of N Computers](./Array/Maximum%20Running%20Time%20of%20N%20Computers/) | Hard |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
+| 2221 | [Find Triangular Sum of an Array](./Array/Find%20Triangular%20Sum%20of%20an%20Array/) | Medium |
 | 2257 | [Count Unguarded Cells in the Grid](./Array/Count%20Unguarded%20Cells%20in%20the%20Grid/) | Medium |
 | 2273 | [Find Resultant Array After Removing Anagrams](./Array/Find%20Resultant%20Array%20After%20Removing%20Anagrams/) | Easy |
 | 2300 | [Successful Pairs of Spells and Potions](./Array/Successful%20Pairs%20of%20Spells%20and%20Potions/) | Medium |
@@ -117,6 +119,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 222 | [Count Complete Tree Nodes](./Binary%20Search/Count%20Complete%20Tree%20Nodes/) | Medium |
 | 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
 | 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
 
@@ -161,6 +164,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
+| 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
 
 </details>
 
@@ -234,11 +238,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
+| 1518 | [Water Bottles](./Math/Water%20Bottles/) | Easy |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](./Math/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/) | Hard |
 | 1716 | [Calculate Money in Leetcode Bank](./Math/Calculate%20Money%20in%20Leetcode%20Bank/) | Easy |
 | 2169 | [Count Operations to Obtain Zero](./Math/Count%20Operations%20to%20Obtain%20Zero/) | Easy |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
 | 2469 | [Convert the Temperature](./Math/Convert%20the%20Temperature/) | Easy |
+| 3100 | [Water Bottles II](./Math/Water%20Bottles%20II/) | Medium |
 | 3370 | [Smallest Number With All Set Bits](./Math/Smallest%20Number%20With%20All%20Set%20Bits/) | Easy |
 | 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
 
