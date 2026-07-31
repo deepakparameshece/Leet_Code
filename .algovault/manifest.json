@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:37:37.985Z",
+  "lastUpdated": "2026-07-31T00:37:47.341Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3921,6 +3921,213 @@
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "find-the-number-of-ways-to-place-people-i": {
+          "questionId": "3025",
+          "title": "Find the Number of Ways to Place People I",
+          "titleSlug": "find-the-number-of-ways-to-place-people-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry",
+            "Sorting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "4 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Find the Number of Ways to Place People I/"
+            }
+          }
+        },
+        "maximum-average-pass-ratio": {
+          "questionId": "1792",
+          "title": "Maximum Average Pass Ratio",
+          "titleSlug": "maximum-average-pass-ratio",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "281 ms",
+              "memory": "84.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Pass Ratio/"
+            }
+          }
+        },
+        "compare-version-numbers": {
+          "questionId": "165",
+          "title": "Compare Version Numbers",
+          "titleSlug": "compare-version-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "1 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Compare Version Numbers/"
+            }
+          }
+        },
+        "fraction-to-recurring-decimal": {
+          "questionId": "166",
+          "title": "Fraction to Recurring Decimal",
+          "titleSlug": "fraction-to-recurring-decimal",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "1 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
+            }
+          }
+        },
+        "maximum-count-of-positive-integer-and-negative-integer": {
+          "questionId": "2529",
+          "title": "Maximum Count of Positive Integer and Negative Integer",
+          "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
+            }
+          }
+        },
+        "count-elements-with-maximum-frequency": {
+          "questionId": "3005",
+          "title": "Count Elements With Maximum Frequency",
+          "titleSlug": "count-elements-with-maximum-frequency",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Array/Count Elements With Maximum Frequency/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458267341,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
             }
           }
         }
