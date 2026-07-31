@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T00:35:51.498Z",
+  "lastUpdated": "2026-07-31T00:35:58.150Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1633,6 +1633,160 @@
               "runtime": "0 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of N-ary Tree/"
+            }
+          }
+        },
+        "self-dividing-numbers": {
+          "questionId": "728",
+          "title": "Self Dividing Numbers",
+          "titleSlug": "self-dividing-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "2 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Self Dividing Numbers/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "7 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "maximum-running-time-of-n-computers": {
+          "questionId": "2141",
+          "title": "Maximum Running Time of N Computers",
+          "titleSlug": "maximum-running-time-of-n-computers",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "26 ms",
+              "memory": "72.2 MB",
+              "githubPath": "LeetCode/Array/Maximum Running Time of N Computers/"
+            }
+          }
+        },
+        "merge-two-binary-trees": {
+          "questionId": "617",
+          "title": "Merge Two Binary Trees",
+          "titleSlug": "merge-two-binary-trees",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Tree/Merge Two Binary Trees/"
+            }
+          }
+        },
+        "student-attendance-record-i": {
+          "questionId": "551",
+          "title": "Student Attendance Record I",
+          "titleSlug": "student-attendance-record-i",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/String/Student Attendance Record I/"
+            }
+          }
+        },
+        "longest-harmonious-subsequence": {
+          "questionId": "594",
+          "title": "Longest Harmonious Subsequence",
+          "titleSlug": "longest-harmonious-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "16 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Longest Harmonious Subsequence/"
+            }
+          }
+        },
+        "fibonacci-number": {
+          "questionId": "509",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Fibonacci Number/"
+            }
+          }
+        },
+        "find-mode-in-binary-search-tree": {
+          "questionId": "501",
+          "title": "Find Mode in Binary Search Tree",
+          "titleSlug": "find-mode-in-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785458158150,
+              "runtime": "7 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Tree/Find Mode in Binary Search Tree/"
             }
           }
         }
