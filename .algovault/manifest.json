@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T01:33:37.949Z",
+  "lastUpdated": "2026-08-02T18:49:25.717Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4419,6 +4419,26 @@
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Subtract the Product and Sum of Digits of an Integer/"
+            }
+          }
+        },
+        "stone-game": {
+          "questionId": "877",
+          "title": "Stone Game",
+          "titleSlug": "stone-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785696565717,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
             }
           }
         }

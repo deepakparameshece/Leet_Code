@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785461617972" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785696565733" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -72,6 +72,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
+| 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 930 | [Binary Subarrays With Sum](./Array/Binary%20Subarrays%20With%20Sum/) | Medium |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
