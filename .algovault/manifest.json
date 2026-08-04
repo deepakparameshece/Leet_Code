@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T18:49:25.717Z",
+  "lastUpdated": "2026-08-04T15:11:06.460Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4439,6 +4439,25 @@
               "runtime": "0 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Stone Game/"
+            }
+          }
+        },
+        "find-missing-elements": {
+          "questionId": "3731",
+          "title": "Find Missing Elements",
+          "titleSlug": "find-missing-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785856266460,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Find Missing Elements/"
             }
           }
         }

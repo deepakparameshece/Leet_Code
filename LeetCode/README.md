@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785696565733" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DeepakPN?theme=tokyonight&show=graph,recent&v=1785856266475" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -127,6 +127,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3542 | [Minimum Operations to Convert All Elements to Zero](./Array/Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero/) | Medium |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 | 3712 | [Sum of Elements With Frequency Divisible by K](./Array/Sum%20of%20Elements%20With%20Frequency%20Divisible%20by%20K/) | Easy |
+| 3731 | [Find Missing Elements](./Array/Find%20Missing%20Elements/) | Easy |
 
 </details>
 
