@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T11:07:28.502Z",
+  "lastUpdated": "2026-08-13T11:07:58.685Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -855,6 +855,12 @@
               "syncedAt": 1786619248502,
               "runtime": "1 ms",
               "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            },
+            "123456789101112131415class solution {    public list<list<integer>> subsets(int[] num) {        list<list<integer>> a =new arraylist<>();        a.add(new arraylist<>());        for(int c: num){            int d=a.size();            for(int i=0;i<d;i++){                list<integer> z= new arraylist<>(a.get(i));                z.add(c);                a.add(z);            }        }        return a;    }}": {
+              "syncedAt": 1786619278684,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Subsets/"
             }
           }
