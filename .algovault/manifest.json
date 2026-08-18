@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T10:28:21.410Z",
+  "lastUpdated": "2026-08-18T10:31:11.756Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3906,6 +3906,12 @@
               "syncedAt": 1787048901410,
               "runtime": "0 ms",
               "memory": "41.6 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            },
+            "123456class solution {    public int mysqrt(int x) {        return (int)math.sqrt(x);    }}": {
+              "syncedAt": 1787049071756,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
             }
           }
