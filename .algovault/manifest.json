@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T08:48:33.728Z",
+  "lastUpdated": "2026-08-18T10:01:07.639Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4485,6 +4485,25 @@
               "runtime": "150 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787047267639,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
             }
           }
         }
