@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-13T11:07:58.685Z",
+  "lastUpdated": "2026-08-18T08:48:33.728Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4464,6 +4464,27 @@
               "runtime": "1 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Find Missing Elements/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787042913728,
+              "runtime": "150 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
             }
           }
         }
