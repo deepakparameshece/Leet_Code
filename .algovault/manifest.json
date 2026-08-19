@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T10:34:26.337Z",
+  "lastUpdated": "2026-08-19T06:36:34.297Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4510,6 +4510,27 @@
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "123456789101112class solution {    public int trap(int[] height) {        int left=0;        int right=height.length-1;        int leftmax=height[left];        int rightmax=height[right];        int water=0;        while(left<right){        if(leftmax<rightmax){            left++;            leftmax=math.max(leftmax,height[left]);            water+=leftmax-height[left];": {
+              "syncedAt": 1787121394296,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
             }
           }
         }
