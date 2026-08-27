@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T10:34:51.034Z",
+  "lastUpdated": "2026-08-27T05:11:40.525Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4549,6 +4549,26 @@
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787807500525,
+              "runtime": "2 ms",
+              "memory": "49.5 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
             }
           }
         }
